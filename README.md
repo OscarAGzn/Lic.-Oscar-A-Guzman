@@ -1,4 +1,7 @@
-# Oscar A. Guzman
+# Universidad de Colima
+## Oscar A. Guzman
+Fac. Economía
+8°A
 Certificación de PowerBI
 ## Descripción del Proyecto
 
