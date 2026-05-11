@@ -45,3 +45,6 @@ Interpretación de patrones comerciales mediante gráficos dinámicos
 ### 5. Objetivo del Dashboard
 
 El dashboard tiene como finalidad optimizar la visualización de información y facilitar el entendimiento de grandes volúmenes de datos comerciales mediante herramientas visuales interactivas y profesionales.
+
+###Reporte de PowerBI
+
